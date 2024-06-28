@@ -1,0 +1,12 @@
+[
+    {
+        "directory": "mydir",
+        "name": "name1",
+        "lines": "1"
+    },
+    {
+        "directory": "mydir",
+        "name": "name2",
+        "lines": "2"
+    }
+]
